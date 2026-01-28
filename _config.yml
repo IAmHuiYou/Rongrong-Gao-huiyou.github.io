@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiaqi Zhang"
+title                    : "Rongrong Gao"
 description              : ""
-repository               : "ZhangJiaqi"
+repository               : "Rongrong Gao"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
-  name             : "Jiaqi Zhang"
+  name             : "Rongrong Gao"
   avatar           : "images/profile.png"
-  bio              : "My research focuses on Computer Graphics, Computer Vision and Image Processing Computational Photography, and Multimodal Foundation Models. <br>School of Computer Science and Telecommunication Engineering, Jiangsu University"
+  bio              : "My research focuses onAgent,Multi-Agent,Vertical AI Agent. <br>School of Computer Science and Telecommunication Engineering, Jiangsu University"
   location         : "Jiangsu China"
   employer         : 
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "sengokuzjq@gmail.com@gmail.com"
+  googlescholar    : #""
+  email            : "18800681257@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JiaqiZhang-Sengoku"
+  github           : "IAmHuiYou"
   google_plus      :
   keybase          :
   instagram        :
