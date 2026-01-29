@@ -88,7 +88,7 @@
 <div class="awards-container">
 
 <div class="section-title" style="font-size: 16px;">
-  🏆 National Level awards (18)
+  🏆 National Level awards (8)
 </div>
 
 
@@ -98,7 +98,7 @@
     <img class="award-image" src="images/Award/Guo_1.png" alt="国奖1">
     <div class="award-info">
         <div class="award-title">国家级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -106,7 +106,7 @@
     <img class="award-image" src="images/Award/Guo_2.png" alt="国奖2">
     <div class="award-info">
         <div class="award-title">国家级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -114,7 +114,7 @@
     <img class="award-image" src="images/Award/Guo_3.png" alt="国奖3">
     <div class="award-info">
         <div class="award-title">国家级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -122,7 +122,7 @@
     <img class="award-image" src="images/Award/Guo_4.png" alt="国奖4">
     <div class="award-info">
         <div class="award-title">国家级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -130,7 +130,7 @@
     <img class="award-image" src="images/Award/Guo_5.png" alt="国奖5">
     <div class="award-info">
         <div class="award-title">国家级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -138,7 +138,7 @@
     <img class="award-image" src="images/Award/Guo_6.png" alt="国奖6">
     <div class="award-info">
         <div class="award-title">国家级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -146,7 +146,7 @@
     <img class="award-image" src="images/Award/Guo_7.jpg" alt="国奖7">
     <div class="award-info">
         <div class="award-title">国家级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -241,7 +241,7 @@
 </div>
 
 <div class="section-title" style="font-size: 16px;">
-  🎖️ Provincial Level Awards (24)
+  🎖️ Provincial Level Awards (15)
 </div>
 
 <div class="awards-grid">
@@ -250,7 +250,7 @@
     <img class="award-image" src="images/Award/Sheng_1.png" alt="省奖1">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -258,7 +258,7 @@
     <img class="award-image" src="images/Award/Sheng_2.png" alt="省奖2">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -266,7 +266,7 @@
     <img class="award-image" src="images/Award/Sheng_3.png" alt="省奖3">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -274,7 +274,7 @@
     <img class="award-image" src="images/Award/Sheng_4.png" alt="省奖4">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -282,7 +282,7 @@
     <img class="award-image" src="images/Award/Sheng_5.png" alt="省奖5">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -298,7 +298,7 @@
     <img class="award-image" src="images/Award/Sheng_7.png" alt="省奖7">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -306,7 +306,7 @@
     <img class="award-image" src="images/Award/Sheng_8.png" alt="省奖8">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -314,7 +314,7 @@
     <img class="award-image" src="images/Award/Sheng_9.jpg" alt="省奖9">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -322,7 +322,7 @@
     <img class="award-image" src="images/Award/Sheng_10.png" alt="省奖10">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -330,7 +330,7 @@
     <img class="award-image" src="images/Award/Sheng_11.png" alt="省奖11">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -338,7 +338,7 @@
     <img class="award-image" src="images/Award/Sheng_12.jpg" alt="省奖12">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -346,7 +346,7 @@
     <img class="award-image" src="images/Award/Sheng_13.jpg" alt="省奖13">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -354,7 +354,7 @@
     <img class="award-image" src="images/Award/Sheng_14.jpg" alt="省奖14">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -362,7 +362,7 @@
     <img class="award-image" src="images/Award/Sheng_15.jpg" alt="省奖15">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -370,7 +370,7 @@
     <img class="award-image" src="images/Award/Sheng_16.png" alt="省奖16">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -378,7 +378,7 @@
     <img class="award-image" src="images/Award/Sheng_17.png" alt="省奖17">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -386,7 +386,7 @@
     <img class="award-image" src="images/Award/Sheng_18.png" alt="省奖18">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -394,7 +394,7 @@
     <img class="award-image" src="images/Award/Sheng_19.png" alt="省奖19">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -402,7 +402,7 @@
     <img class="award-image" src="images/Award/Sheng_20.png" alt="省奖20">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -410,7 +410,7 @@
     <img class="award-image" src="images/Award/Sheng_21.png" alt="省奖21">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -418,7 +418,7 @@
     <img class="award-image" src="images/Award/Sheng_22.jpg" alt="省奖22">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -426,7 +426,7 @@
     <img class="award-image" src="images/Award/Sheng_23.png" alt="省奖23">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div>
 
@@ -434,7 +434,7 @@
     <img class="award-image" src="images/Award/Sheng_24.png" alt="省奖24">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
-        <div class="award-date">2024年</div>
+        <div class="award-date">2025年</div>
     </div>
 </div> -->
 
