@@ -50,7 +50,7 @@ Biomedical Signal Processing and Control (BSPC) **Under Review**
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <img src="images/Projects/NeuroTrip.png" alt="NeuroTrip" width="100%">
+      <img src="images/Projects/NeuroTrip1.png" alt="NeuroTrip" width="100%">
     </div>
   </div>
   <div class="paper-box-text">
