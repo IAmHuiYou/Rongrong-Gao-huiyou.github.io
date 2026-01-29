@@ -1,10 +1,9 @@
 # 📚 Research Interests
-- Computer Graphics (Edge-preserving filtering and Image smoothing)
-- Computer Vision, Image Processing (Industry and Medicine)
-- Computational Photography (Camera image)
-- Multimodal Foundation Models (Generative model, Alignment and Balance)
-
-# 🔥 News
+- AI Agent(Tool Use, Planning, and Learning)
+- Vertical AI Agent(Keen to specialize in and apply AI agents to specific domains (e.g., finance, healthcare, education), with strong adaptability to new fields.)
+- Mutil-Agent System（Cooperation and Game Theory）
+#  MBTI
+INTJ
 
 
 
