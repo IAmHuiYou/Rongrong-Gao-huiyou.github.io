@@ -5,6 +5,15 @@
     max-width: 1400px;
     margin: 30px auto;
 }
+/* 横版奖状：占两列 */
+.award-card.wide {
+    grid-column: span 2;
+}
+
+/* 横版奖状图片稍微矮一点，更协调 */
+.award-card.wide .award-image {
+    height: 180px;
+}
 
 .section-title {
     font-size: 24px;
@@ -111,7 +120,7 @@
     </div>
 </div>
 
-<div class="award-card">
+<div class="award-card wide">
     <img class="award-image" src="images/Award/Guo_3.png" alt="国奖3">
     <div class="award-info">
         <div class="award-title">国家级奖项</div>
@@ -119,7 +128,7 @@
     </div>
 </div>
 
-<div class="award-card">
+<div class="award-card wide">
     <img class="award-image" src="images/Award/Guo_4.png" alt="国奖4">
     <div class="award-info">
         <div class="award-title">国家级奖项</div>
@@ -127,7 +136,7 @@
     </div>
 </div>
 
-<div class="award-card">
+<div class="award-card wide">
     <img class="award-image" src="images/Award/Guo_5.png" alt="国奖5">
     <div class="award-info">
         <div class="award-title">国家级奖项</div>
@@ -135,7 +144,7 @@
     </div>
 </div>
 
-<div class="award-card">
+<div class="award-card wide">
     <img class="award-image" src="images/Award/Guo_6.png" alt="国奖6">
     <div class="award-info">
         <div class="award-title">国家级奖项</div>
@@ -144,7 +153,7 @@
 </div>
 
 <div class="award-card">
-    <img class="award-image" src="images/Award/Guo_7.png" alt="国奖7">
+    <img class="award-image" src="images/Award/Guo_7.jpg" alt="国奖7">
     <div class="award-info">
         <div class="award-title">国家级奖项</div>
         <div class="award-date">2024年</div>
@@ -152,7 +161,7 @@
 </div>
 
 <div class="award-card">
-    <img class="award-image" src="images/Award/Guo_8.png" alt="国奖8">
+    <img class="award-image" src="images/Award/Guo_8.jpg" alt="国奖8">
     <div class="award-info">
         <div class="award-title">国家级奖项</div>
         <div class="award-date">2024年</div>
@@ -303,7 +312,7 @@
     </div>
 </div>
 
-<div class="award-card">
+<div class="award-card wide">
     <img class="award-image" src="images/Award/Sheng_8.png" alt="省奖8">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
@@ -312,14 +321,14 @@
 </div>
 
 <div class="award-card">
-    <img class="award-image" src="images/Award/Sheng_9.png" alt="省奖9">
+    <img class="award-image" src="images/Award/Sheng_9.jpg" alt="省奖9">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
         <div class="award-date">2024年</div>
     </div>
 </div>
 
-<div class="award-card">
+<div class="award-card wide">
     <img class="award-image" src="images/Award/Sheng_10.png" alt="省奖10">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
@@ -327,7 +336,7 @@
     </div>
 </div>
 
-<div class="award-card">
+<div class="award-card wide">
     <img class="award-image" src="images/Award/Sheng_11.png" alt="省奖11">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
@@ -336,7 +345,7 @@
 </div>
 
 <div class="award-card">
-    <img class="award-image" src="images/Award/Sheng_12.png" alt="省奖12">
+    <img class="award-image" src="images/Award/Sheng_12.jpg" alt="省奖12">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
         <div class="award-date">2024年</div>
@@ -344,7 +353,7 @@
 </div>
 
 <div class="award-card">
-    <img class="award-image" src="images/Award/Sheng_13.png" alt="省奖13">
+    <img class="award-image" src="images/Award/Sheng_13.jpg" alt="省奖13">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
         <div class="award-date">2024年</div>
@@ -360,7 +369,7 @@
 </div>
 
 <div class="award-card">
-    <img class="award-image" src="images/Award/Sheng_15.png" alt="省奖15">
+    <img class="award-image" src="images/Award/Sheng_15.jpg" alt="省奖15">
     <div class="award-info">
         <div class="award-title">省部级奖项</div>
         <div class="award-date">2024年</div>
