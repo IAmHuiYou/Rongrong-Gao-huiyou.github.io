@@ -6,17 +6,24 @@ main:
   - title: "Research Interests"
     url: "/#-research-interests"
 
-  - title: "News"
-    url: "/#-news"
-
   - title: "Publications"
     url: "/#-publications"
+
+    - title: "Student Leadership"
+    url: "/#-Student Leadership"
+
+    - title: "Projects"
+    url: "/#-Projects"
+
+    - title: "Software Copyrights"
+    url: "/#-Software Copyrights"
+    
 
   - title: "Honors"
     url: "/#-honors"
 
-  - title: "CV"
-    url: "/#-cv"
+  # - title: "CV"
+  #   url: "/#-cv"
   #- title: "Educations"
   #  url: "/#-educations"
 
