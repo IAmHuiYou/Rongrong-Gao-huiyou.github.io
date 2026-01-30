@@ -27,7 +27,7 @@ Biomedical Signal Processing and Control (BSPC) **Under Review**
     <strong>Wolf Game: Multi-Agent Cooperation and Adversarial System Based on ERNIE LLM</strong><br>
     Team Leader | Jan 2025 – May 2025<br>
     <em>Achievements:</em> Software Copyright; National Third Prize, China Undergraduate Service Outsourcing Innovation & Entrepreneurship Competition<br>
-    <em>Description:</em> Built an intelligent game platform for the Werewolf scenario using ERNIE large language model and the Swarm multi-agent framework. The system integrates natural language understanding with strategic decision-making to enable cooperation and confrontation among AI agents. I led the FastAPI backend architecture and strategy engine development, implemented a dual-layer agent persona design and complete game rule system, and participated in project management and technical decision-making, promoting AI applications in complex social reasoning environments.
+    <em>Description:</em> Built an intelligent game platform for the Werewolf scenario using large language models and the Swarm multi-agent framework. The system integrates natural language understanding with strategic decision-making to enable cooperation and confrontation among AI agents. I led the FastAPI backend architecture and strategy engine development, implemented a dual-layer agent persona design and complete game rule system, and participated in project management and technical decision-making, promoting AI applications in complex social reasoning environments.
   </div>
 </div>
 
@@ -41,7 +41,7 @@ Biomedical Signal Processing and Control (BSPC) **Under Review**
   <div class="paper-box-text">
     <strong>Vision-Based Autonomous Driving Robot System</strong><br>
     Robot Application Competition (Intelligent Driving) | Team Leader | Mar 2025 – Jul 2025<br>
-    <em>Description:</em>Developed visual perception and robot motion algorithms for autonomous driving tasks in an offline competition environment. The robot adopted a vision and LiDAR-based solution to accomplish lane following, pedestrian crossing detection, traffic light recognition, obstacle avoidance, and voice prompt functions for intelligent driving scenarios. Model thresholds, detection stability, and navigation behavior were optimized through systematic parameter adjustment and multiple experimental iterations. These efforts improved the robustness and task completion rate of the robot under different track conditions. The optimized robot achieved a final lap time of 39.2 seconds for two laps on the track.
+    <em>Description:</em>Developed visual perception and robot motion algorithms for autonomous driving tasks in an offline competition environment. The robot adopted a vision and LiDAR-based solution to accomplish lane following, pedestrian crossing detection, traffic light recognition, obstacle avoidance, and voice prompt functions for intelligent driving scenarios. Model thresholds, detection stability, and navigation behavior were optimized through systematic parameter adjustment and multiple experimental iterations. The optimized robot achieved a final lap time of 39.2 seconds for two laps on the track.
   </div>
 </div>
 
