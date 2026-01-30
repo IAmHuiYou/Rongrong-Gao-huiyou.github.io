@@ -1,5 +1,5 @@
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Publication/DDGF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' id="publications"><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Publication/DDGF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Zero-Shot Medical Image Super-Resolution Using Denoising Diffusion Models with Gradient-Frequency Priors]() <br>
 Biomedical Signal Processing and Control (BSPC) **Under Review**
@@ -10,14 +10,18 @@ Biomedical Signal Processing and Control (BSPC) **Under Review**
 </div>
 </div>
 
+<div id="student-leadership">
+
 # 👨‍💼 Student Leadership
 
 - **President**, Student Association for Science and Technology Innovation  
   School of Computer Science
 
+</div>
 
-# 🔨 Project
- <div class="paper-box">
+
+# 🔨 Projects
+ <div class="paper-box" id="Projects">
   <div class="paper-box-image">
     <div>
       <img src="images/Projects/WolfGame.png" alt="WolfGame" width="100%">
