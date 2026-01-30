@@ -47,11 +47,6 @@
     height: 100%;
     object-fit: cover;
     display: block;
-    transition: transform 0.3s ease;
-}
-
-.award-card:hover .award-image {
-    transform: scale(1.15);
 }
 
 .award-info {
