@@ -233,7 +233,7 @@
 }
 </style>
 
-<div class="awards-container">
+<div class="awards-container" id="Software Copyrights">
 
 <div class="awards-grid">
 
@@ -252,7 +252,7 @@
 
 # 🥇 Honors
 
-<div class="awards-container">
+<div class="awards-container" id="honors">
 
 <div class="section-title" style="font-size: 16px;">
   🏆 National Level Awards (8)
