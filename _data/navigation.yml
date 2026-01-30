@@ -1,34 +1,34 @@
-# main links links
-main:
-  - title: "About Me"
-    url: "/#about-me"
+# # main links links
+# main:
+#   - title: "About Me"
+#     url: "/#about-me"
 
-  - title: "Research Interests"
-    url: "/#-research-interests"
+#   - title: "Research Interests"
+#     url: "/#-research-interests"
 
-  - title: "Publications"
-    url: "/#-publications"
+#   - title: "Publications"
+#     url: "/#-publications"
 
-    - title: "Student Leadership"
-    url: "/#-Student Leadership"
+#     - title: "Student Leadership"
+#     url: "/#-Student Leadership"
 
-    - title: "Projects"
-    url: "/#-Projects"
+#     - title: "Projects"
+#     url: "/#-Projects"
 
-    - title: "Software Copyrights"
-    url: "/#-Software Copyrights"
+#     - title: "Software Copyrights"
+#     url: "/#-Software Copyrights"
     
 
-  - title: "Honors"
-    url: "/#-honors"
+#   - title: "Honors"
+#     url: "/#-honors"
 
-  # - title: "CV"
-  #   url: "/#-cv"
-  #- title: "Educations"
-  #  url: "/#-educations"
+#   # - title: "CV"
+#   #   url: "/#-cv"
+#   #- title: "Educations"
+#   #  url: "/#-educations"
 
-  #- title: "Invited Talks"
-  #  url: "/#-invited-talks"
+#   #- title: "Invited Talks"
+#   #  url: "/#-invited-talks"
 
-  #- title: "Internships"
-  #  url: "/#-internships"
+#   #- title: "Internships"
+#   #  url: "/#-internships"
