@@ -237,7 +237,7 @@
 
 <div class="awards-grid">
 
-<div class="award-card" onclick="openLightbox('images/Copyright/Copyright_1.png', '狼口博弈', '2025年')">
+<div class="award-card" onclick="openLightbox('images/Copyright/Copyright.jpg', '狼口博弈', '2025年')">
     <div class="award-image-container">
         <img class="award-image" src="images/Copyright/Copyright.png" alt="软著1">
     </div>
