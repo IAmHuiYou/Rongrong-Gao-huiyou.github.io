@@ -237,12 +237,12 @@
 
 <div class="awards-grid">
 
-<div class="award-card" onclick="openLightbox('images/Copyright/Copyright_1.png', '软件著作权名称', '2025年')">
+<div class="award-card" onclick="openLightbox('images/Copyright/Copyright_1.png', '狼口博弈', '2025年')">
     <div class="award-image-container">
-        <img class="award-image" src="images/Copyright/Copyright_1.png" alt="软著1">
+        <img class="award-image" src="images/Copyright/Copyright.png" alt="软著1">
     </div>
     <div class="award-info">
-        <div class="award-title">软件著作权名称</div>
+        <div class="award-title">狼口博弈</div>
         <div class="award-date">2025年</div>
     </div>
 </div>
