@@ -10,13 +10,6 @@ Biomedical Signal Processing and Control (BSPC) **Under Review**
 </div>
 </div>
 
-# 👨‍💼 Student Leadership
-
-<strong>President</strong>, Student Association for Science and Technology Innovation  
-School of Computer Science
-<br>
-
-
 # 🔨 Projects
  <div class="paper-box" id="Projects">
   <div class="paper-box-image">
